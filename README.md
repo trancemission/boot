@@ -1,2 +1,4 @@
 boot
 ====
+
+Bootstrap initialization
